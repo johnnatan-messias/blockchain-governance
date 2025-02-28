@@ -1,3 +1,4 @@
+# Johnnatan Messias <https://johnnatan-messias.github.io>
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from statsmodels.distributions.empirical_distribution import ECDF

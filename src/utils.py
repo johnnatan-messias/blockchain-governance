@@ -1,3 +1,4 @@
+# Johnnatan Messias <https://johnnatan-messias.github.io>
 from tqdm import tqdm
 import os
 import json

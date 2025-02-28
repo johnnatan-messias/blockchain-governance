@@ -1,3 +1,4 @@
+# Johnnatan Messias <https://johnnatan-messias.github.io>
 import itertools
 import json
 import os
